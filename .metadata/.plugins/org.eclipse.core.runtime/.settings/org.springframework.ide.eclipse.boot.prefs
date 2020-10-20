@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=2
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=osworks-api-1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.3.4.RELEASE
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=API desenvolvida baseado no curso de introdu\u00E7\u00E3o \u00E0 Spring Rest da Algaworks.
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.algaworks.osworks
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=15
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=osworks-api-1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.algaworks.osworks
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.1-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n

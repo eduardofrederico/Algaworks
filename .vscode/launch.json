@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-OsworksApi1Application<osworks-api-1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.algaworks.osworks.OsworksApi1Application",
+            "projectName": "osworks-api-1",
+            "args": ""
+        }
+    ]
+}
