@@ -26,6 +26,7 @@ public class ClienteController {
 		cliente2.setTelefone("+5516999991112");
 		
 		return Arrays.asList(cliente1, cliente2);
+		//gdfgrdhfhdhg
 		
 	}
 
