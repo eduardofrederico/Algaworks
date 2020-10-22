@@ -4,3 +4,6 @@
 1603305916509	Rename resource 'cria-tabela-cliente.sql'
 1603306212517	Rename resource 'V001__cria-tabela-cliente.sql'
 1603311180571	Rename resource 'renomeia-tabela.sql'
+1603389542447	Encapsulate field 'mensagem'
+1603389548486	Encapsulate field 'nome'
+1603389555129	Encapsulate field 'campos'
