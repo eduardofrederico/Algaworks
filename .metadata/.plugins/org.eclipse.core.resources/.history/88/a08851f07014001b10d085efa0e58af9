@@ -56,8 +56,8 @@ public class ClienteController {
 	public ResponseEntity<Cliente> atualizar(@PathVariable Long clienteId, 
 			@RequestBody Cliente cliente) {
 		
-		if (!clienteRepository.existsById(clienteId)) {
-			return ResponseEntity.notFound().build();
+		if(!clienteRepository.existsById(clienteId)) {
+			ResponseEntity.notFound().build();
 		}
 		
 		cliente.setId(clienteId);
@@ -68,12 +68,11 @@ public class ClienteController {
 	
 	@DeleteMapping("/{clienteId}")
 	public ResponseEntity<Void> remover(@PathVariable Long clienteId) {
-		if (!clienteRepository.existsById(clienteId)) {
-			return ResponseEntity.notFound().build();
+		if(!clienteRepository.existsById(clienteId)) {
+			ResponseEntity.notFound().build();
 		}
 		
 		clienteRepository.deleteById(clienteId);
-		
 		return ResponseEntity.noContent().build();
 	}
 }
