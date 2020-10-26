@@ -1281,3 +1281,76 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2020-10-22 15:35:58,315 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
 2020-10-22 15:35:58,318 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-10-22 15:35:58,318 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eduardofrederico/Library/Mobile Documents/com~apple~CloudDocs/Dev/Algaworks/osworks-api-1/src/test/resources
+2020-10-22 15:45:10,722 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-22 15:45:10,723 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-22 15:45:10,727 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-10-22 15:45:10,730 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-22 15:45:10,730 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eduardofrederico/Library/Mobile Documents/com~apple~CloudDocs/Dev/Algaworks/osworks-api-1/src/test/resources
+2020-10-22 15:51:24,777 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-22 15:51:24,787 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-22 15:51:24,790 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-10-22 15:51:24,799 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-22 15:51:24,799 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eduardofrederico/Library/Mobile Documents/com~apple~CloudDocs/Dev/Algaworks/osworks-api-1/src/test/resources
+2020-10-22 17:29:10,664 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-22 17:29:10,666 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-22 17:29:10,674 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-10-22 17:29:10,688 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-22 17:29:10,688 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eduardofrederico/Library/Mobile Documents/com~apple~CloudDocs/Dev/Algaworks/osworks-api-1/src/test/resources
+2020-10-22 17:29:11,742 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-22 17:29:11,745 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-22 17:29:11,748 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-10-22 17:29:11,753 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-22 17:29:11,753 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eduardofrederico/Library/Mobile Documents/com~apple~CloudDocs/Dev/Algaworks/osworks-api-1/src/test/resources
+2020-10-22 17:29:34,440 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@46ea48dd{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2020-10-22 17:29:34,441 [Stop Help Server] INFO  org.eclipse.jetty.server.session - node0 Stopped scavenging
+2020-10-22 17:29:34,463 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@3f2b9708{/help,null,UNAVAILABLE}
+2020-10-26 14:58:01,910 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-10-26 15:01:27,148 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:01:27,157 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-26 15:01:27,185 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-10-26 15:01:27,191 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:01:27,192 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eduardofrederico/Library/Mobile Documents/com~apple~CloudDocs/Dev/Algaworks/osworks-api-1/src/test/resources
+2020-10-26 15:08:53,957 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:08:53,964 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-26 15:08:53,968 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-10-26 15:08:53,989 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:08:53,989 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eduardofrederico/Library/Mobile Documents/com~apple~CloudDocs/Dev/Algaworks/osworks-api-1/src/test/resources
+2020-10-26 15:09:40,338 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:09:40,343 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-26 15:09:40,351 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-10-26 15:09:40,357 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:09:40,357 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eduardofrederico/Library/Mobile Documents/com~apple~CloudDocs/Dev/Algaworks/osworks-api-1/src/test/resources
+2020-10-26 15:11:48,552 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:11:48,555 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-26 15:11:48,557 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-10-26 15:11:48,566 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:11:48,567 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eduardofrederico/Library/Mobile Documents/com~apple~CloudDocs/Dev/Algaworks/osworks-api-1/src/test/resources
+2020-10-26 15:12:07,238 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:12:07,240 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-26 15:12:07,242 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-10-26 15:12:07,246 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:12:07,247 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eduardofrederico/Library/Mobile Documents/com~apple~CloudDocs/Dev/Algaworks/osworks-api-1/src/test/resources
+2020-10-26 15:12:08,403 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:12:08,405 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-26 15:12:08,407 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-10-26 15:12:08,411 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:12:08,412 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eduardofrederico/Library/Mobile Documents/com~apple~CloudDocs/Dev/Algaworks/osworks-api-1/src/test/resources
+2020-10-26 15:24:19,410 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:24:19,412 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-26 15:24:19,415 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-10-26 15:24:19,419 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:24:19,419 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eduardofrederico/Library/Mobile Documents/com~apple~CloudDocs/Dev/Algaworks/osworks-api-1/src/test/resources
+2020-10-26 15:27:16,880 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @1803316ms to org.eclipse.jetty.util.log.Slf4jLog
+2020-10-26 15:27:17,081 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-08-03T13:24:06.825Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 14.0.2+12-46
+2020-10-26 15:27:17,109 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2020-10-26 15:27:17,109 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2020-10-26 15:27:17,111 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2020-10-26 15:27:17,156 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@e9cca6c{/help,null,AVAILABLE}
+2020-10-26 15:27:17,181 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@28085e3d{HTTP/1.1, (http/1.1)}{127.0.0.1:52268}
+2020-10-26 15:27:17,181 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @1803619ms
+2020-10-26 15:27:17,182 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 726000ms
+2020-10-26 15:29:11,759 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:29:11,760 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-26 15:29:11,763 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-10-26 15:29:11,769 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-26 15:29:11,770 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eduardofrederico/Library/Mobile Documents/com~apple~CloudDocs/Dev/Algaworks/osworks-api-1/src/test/resources
