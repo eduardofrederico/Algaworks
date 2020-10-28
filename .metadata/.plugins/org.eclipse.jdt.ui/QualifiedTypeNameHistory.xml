@@ -42,4 +42,8 @@
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="com.algaworks.osworks.domain.model.Cliente"/>
     <fullyQualifiedTypeName name="com.algaworks.osworks.domain.service.CadastroClienteService"/>
+    <fullyQualifiedTypeName name="com.algaworks.osworks.domain.exception.NegocioException"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ExceptionHandler"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonInclude"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonInclude.Include"/>
 </qualifiedTypeNameHistroy>
