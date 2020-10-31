@@ -1,7 +1,7 @@
 package com.algaworks.osworks.domain.model;
 
 import java.math.BigDecimal;
-import java.time.OffsetDateTime;
+import java.time.LocalDateTime;
 
 import javax.persistence.Entity;
 import javax.persistence.EnumType;
@@ -44,10 +44,10 @@ public class OrdemServico {
 	private BigDecimal preco;
 	
 	@JsonProperty(access = Access.READ_ONLY)
-	private OffsetDateTime dataAbertura;
+	private LocalDateTime dataAbertura;
 	
 	@JsonProperty(access = Access.READ_ONLY)
-	private OffsetDateTime dataFinalizada;
+	private LocalDateTime dataFinalizada;
 	
 	public Long getId() {
 		return id;
@@ -79,16 +79,16 @@ public class OrdemServico {
 	public void setStatus(StatusOrdemServico status) {
 		this.status = status;
 	}
-	public OffsetDateTime getDataAbertura() {
+	public LocalDateTime getDataAbertura() {
 		return dataAbertura;
 	}
-	public void setDataAbertura(OffsetDateTime dataAbertura) {
+	public void setDataAbertura(LocalDateTime dataAbertura) {
 		this.dataAbertura = dataAbertura;
 	}
-	public OffsetDateTime getDataFinalizada() {
+	public LocalDateTime getDataFinalizada() {
 		return dataFinalizada;
 	}
-	public void setDataFinalizada(OffsetDateTime dataFinalizada) {
+	public void setDataFinalizada(LocalDateTime dataFinalizada) {
 		this.dataFinalizada = dataFinalizada;
 	}
 	@Override

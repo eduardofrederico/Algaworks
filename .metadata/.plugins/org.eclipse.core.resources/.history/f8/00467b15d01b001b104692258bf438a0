@@ -2,7 +2,7 @@ package com.algaworks.osworks.api.exceptionhandler;
 
 import org.springframework.http.HttpStatus;
 
-import java.time.OffsetDateTime;
+import java.time.LocalDateTime;
 import java.util.ArrayList;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -33,7 +33,7 @@ public class ApiExceptionHandler extends ResponseEntityExceptionHandler {
 		var problema = new Problema();
 		problema.setStatus(status.value());
 		problema.setTitulo(ex.getMessage());
-		problema.setDatahora(OffsetDateTime.now());
+		problema.setDatahora(LocalDateTime.now());
 		
 		return handleExceptionInternal(ex, problema, new HttpHeaders(), status, request);
 	}
@@ -54,7 +54,7 @@ public class ApiExceptionHandler extends ResponseEntityExceptionHandler {
 		problema.setStatus(status.value());
 		problema.setTitulo("Um ou mais dados estão inválidos. " +
 		"Corrija os campos e tente novamente.");
-		problema.setDatahora(OffsetDateTime.now());
+		problema.setDatahora(LocalDateTime.now());
 		problema.setCampos(campos);
 		
 		return super.handleExceptionInternal(ex, problema, headers, status, request);
