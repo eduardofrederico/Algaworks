@@ -2,3 +2,8 @@
 1604256523813	Encapsulate field 'id'
 1604256531065	Encapsulate field 'nome'
 1604256605121	Encapsulate field 'cliente'
+1604407775467	Encapsulate field 'id'
+1604407805226	Encapsulate field 'descricao'
+1604407810923	Encapsulate field 'preco'
+1604407814881	Encapsulate field 'cliente'
+1604412681222	Delete element
