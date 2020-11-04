@@ -10,3 +10,4 @@
 1604450678822	Rename resource 'comentario.sql'
 1604461287033	Encapsulate field 'comentarioRepository'
 1604461496163	Delete element
+1604500073303	Extract method 'buscar'
