@@ -7,3 +7,6 @@
 1604407810923	Encapsulate field 'preco'
 1604407814881	Encapsulate field 'cliente'
 1604412681222	Delete element
+1604450678822	Rename resource 'comentario.sql'
+1604461287033	Encapsulate field 'comentarioRepository'
+1604461496163	Delete element
